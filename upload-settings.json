@@ -1,0 +1,6 @@
+{
+    "date-timezone": "Europe\/Warsaw",
+    "file-format": ".wav",
+    "records-folder-name": "uploads/",
+    "records-json-name": "records.json"
+}
